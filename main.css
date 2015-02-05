@@ -1,0 +1,24 @@
+li { 
+  font-weight: bold;
+  color: red;
+}
+
+ol li {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+ol li.green {
+  color: #990000;
+}
+
+#favourite {
+  font-style: italic;
+}
+
+#favourite {
+  font-style: normal;
+}
