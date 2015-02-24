@@ -2,13 +2,13 @@
 
 ##  Pages explained
 
-- [position:absolute](1-absolute.html)
-- [position:fixed](2-fixed.html)
-- [position:relative](3-relative.html)
-- [Fixed width](4-fixed-width.html)
-- [float](5-float.html)
-- [clear](6-clear.html)
-- [Media queries](7-media.html)
+- [position:absolute](http://matharden.github.io/code-club-css/layout/1-absolute.html)
+- [position:fixed](http://matharden.github.io/code-club-css/layout/2-fixed.html)
+- [position:relative](http://matharden.github.io/code-club-css/layout/3-relative.html)
+- [Fixed width](http://matharden.github.io/code-club-css/layout/4-fixed-width.html)
+- [float](http://matharden.github.io/code-club-css/layout/5-float.html)
+- [clear](http://matharden.github.io/code-club-css/layout/6-clear.html)
+- [Media queries](http://matharden.github.io/code-club-css/layout/7-media.html)
 
 ## Other links used in this session
 
